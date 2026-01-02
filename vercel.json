@@ -1,0 +1,14 @@
+{
+    "headers": [
+      {
+        "source": "/playlist.m3u",
+        "headers": [
+          {
+            "key": "Content-Type",
+            "value": "application/x-mpegurl; charset=utf-8"
+          }
+        ]
+      }
+    ]
+  }
+  
